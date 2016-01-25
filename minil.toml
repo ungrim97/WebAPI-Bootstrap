@@ -1,0 +1,4 @@
+name = "WebAPI-Bootstrap"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
